@@ -1,0 +1,8 @@
+.byebug_history
+*.swp
+*.swo
+Gemfile.lock
+.rspec_status
+.gmail_credentials.yml
+tmp/*
+!tmp/.gitkeep
